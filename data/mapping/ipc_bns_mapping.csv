@@ -1,0 +1,318 @@
+ipc_section,bns_section,status,notes
+299,100,verified,"Culpable homicide - definition. Verified by direct text comparison of both PDFs."
+300,101,verified,"Murder - definition. Verified by direct text comparison of both PDFs."
+301,102,verified,"Culpable homicide by causing death of person other than person whose death was intended. Headnote text is identical in both PDFs."
+302,103,verified,"Punishment for murder. Headnote text is identical in both PDFs."
+303,104,verified,"Punishment for murder by life-convict. Headnote text is identical in both PDFs."
+304,105,verified,"Punishment for culpable homicide not amounting to murder. Headnote/opening text matches closely."
+53,4,suggested,fuzzy title match (96/100): 'Punishments' ~ 'Punishments.' — please verify
+54,5,suggested,fuzzy title match (82/100): 'Commutation of sentence of death' ~ 'Commutation of sentence.' — please verify
+57,6,suggested,fuzzy title match (98/100): 'Fractions of terms of punishment' ~ 'Fractions of terms of punishment.' — please verify
+60,7,suggested,fuzzy title match (99/100): 'Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple' ~ 'Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.' — please verify
+71,9,suggested,fuzzy title match (99/100): 'Limit of punishment of offence made up of several offences' ~ 'Limit of punishment of offence made up of several offences.' — please verify
+72,10,suggested,"fuzzy title match (98/100): 'Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which' ~ 'Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.' — please verify"
+73,11,suggested,fuzzy title match (98/100): 'Solitary confinement' ~ 'Solitary confinement.' — please verify
+74,12,suggested,fuzzy title match (98/100): 'Limit of solitary confinement' ~ 'Limit of solitary confinement.' — please verify
+75,13,suggested,fuzzy title match (79/100): 'Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction' ~ 'Enhanced punishment for certain offences after previous conviction.' — please verify
+76,14,suggested,"fuzzy title match (99/100): 'Act done by a person bound, or by mistake of fact believing himself bound, by law' ~ 'Act done by a person bound, or by mistake of fact believing himself bound, by law.' — please verify"
+77,15,suggested,fuzzy title match (99/100): 'Act of Judge when acting judicially' ~ 'Act of Judge when acting judicially.' — please verify
+78,16,suggested,fuzzy title match (95/100): 'Act done pursuant to the judgment or order of Court' ~ 'Act done pursuant to judgment or order of Court.' — please verify
+79,17,suggested,"fuzzy title match (99/100): 'Act done by a person justified, or by mistake of fact believing himself justified, by law' ~ 'Act done by a person justified, or by mistake of fact believing himself justified, by law.' — please verify"
+80,18,suggested,fuzzy title match (98/100): 'Accident in doing a lawful act' ~ 'Accident in doing a lawful act.' — please verify
+81,19,suggested,"fuzzy title match (98/100): 'Act likely to cause harm, but done without criminal intent, and to prevent other harm' ~ 'Act likely to cause harm, but done without criminal intent, and to prevent other harm.' — please verify"
+82,20,suggested,fuzzy title match (99/100): 'Act of a child under seven years of age' ~ 'Act of a child under seven years of age.' — please verify
+83,21,suggested,fuzzy title match (91/100): 'Act of a child above seven and under twelve of immature understanding' ~ 'Act of a child above seven and under twelve years of age of immature understanding.' — please verify
+84,22,suggested,fuzzy title match (98/100): 'Act of a person of unsound mind' ~ 'Act of a person of unsound mind.' — please verify
+85,23,suggested,fuzzy title match (99/100): 'Act of a person incapable of judgment by reason of intoxication caused against his will' ~ 'Act of a person incapable of judgment by reason of intoxication caused against his will.' — please verify
+86,24,suggested,fuzzy title match (99/100): 'Offence requiring a particular intent or knowledge committed by one who is intoxicated' ~ 'Offence requiring a particular intent or knowledge committed by one who is intoxicated.' — please verify
+87,25,suggested,"fuzzy title match (99/100): 'Act not intended and not known to be likely to cause death or grievous hurt, done by consent' ~ 'Act not intended and not known to be likely to cause death or grievous hurt, done by consent.' — please verify"
+88,26,suggested,"fuzzy title match (99/100): 'Act not intended to cause death, done by consent in good faith for person's benefit' ~ 'Act not intended to cause death, done by consent in good faith for person's benefit.' — please verify"
+89,27,suggested,"fuzzy title match (89/100): 'Act done in good faith for benefit of child or insane person, by or by consent of guardian' ~ 'Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.' — please verify"
+90,28,suggested,fuzzy title match (99/100): 'Consent known to be given under fear or misconception' ~ 'Consent known to be given under fear or misconception.' — please verify
+91,29,suggested,fuzzy title match (98/100): 'Exclusion of acts which are offences independently of harm cause' ~ 'Exclusion of acts which are offences independently of harm caused.' — please verify
+92,30,suggested,fuzzy title match (99/100): 'Act done in good faith for benefit of a person without consent' ~ 'Act done in good faith for benefit of a person without consent.' — please verify
+93,31,suggested,fuzzy title match (98/100): 'Communication made in good faith' ~ 'Communication made in good faith.' — please verify
+94,32,suggested,fuzzy title match (99/100): 'Act to which a person is compelled by threats' ~ 'Act to which a person is compelled by threats.' — please verify
+95,33,suggested,fuzzy title match (98/100): 'Act causing slight harm' ~ 'Act causing slight harm.' — please verify
+96,34,suggested,fuzzy title match (98/100): 'Things done in private defence' ~ 'Things done in private defence.' — please verify
+97,35,suggested,fuzzy title match (95/100): 'Right of private defence of the body and of property' ~ 'Right of private defence of body and of property.' — please verify
+98,36,suggested,"fuzzy title match (97/100): 'Right of private defence against the act of a person of unsound mind, etc' ~ 'Right of private defence against act of a person of unsound mind, etc.' — please verify"
+99,37,suggested,fuzzy title match (99/100): 'Acts against which there is no right of private defence' ~ 'Acts against which there is no right of private defence.' — please verify
+100,38,suggested,fuzzy title match (93/100): 'When the right of private defence of the body extends to causing death' ~ 'When right of private defence of body extends to causing death.' — please verify
+101,39,suggested,fuzzy title match (99/100): 'When such right extends to causing any harm other than death' ~ 'When such right extends to causing any harm other than death.' — please verify
+102,40,suggested,fuzzy title match (93/100): 'Commencement and continuance of the right of private defence of the body' ~ 'Commencement and continuance of right of private defence of body.' — please verify
+103,41,suggested,fuzzy title match (96/100): 'When the right of private defence of property extends to causing death' ~ 'When right of private defence of property extends to causing death.' — please verify
+104,39,suggested,fuzzy title match (99/100): 'When such right extends to causing any harm other than death' ~ 'When such right extends to causing any harm other than death.' — please verify
+105,43,suggested,fuzzy title match (96/100): 'Commencement and continuance of the right of private defence of property' ~ 'Commencement and continuance of right of private defence of property.' — please verify
+106,44,suggested,fuzzy title match (99/100): 'Right of private defence against deadly assault when there is risk of harm to innocent person' ~ 'Right of private defence against deadly assault when there is risk of harm to innocent person.' — please verify
+107,45,suggested,fuzzy title match (97/100): 'Abetment of a thing' ~ 'Abetment of a thing.' — please verify
+108,46,suggested,fuzzy title match (93/100): 'Abettor' ~ 'Abettor.' — please verify
+108A,47,suggested,fuzzy title match (99/100): 'Abetment in India of offences outside India' ~ 'Abetment in India of offences outside India.' — please verify
+109,49,suggested,fuzzy title match (98/100): 'Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment' ~ 'Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.' — please verify
+110,50,suggested,fuzzy title match (99/100): 'Punishment of abetment if person abetted does act with different intention from that of abettor' ~ 'Punishment of abetment if person abetted does act with different intention from that of abettor.' — please verify
+111,51,suggested,fuzzy title match (99/100): 'Liability of abettor when one act abetted and different act done' ~ 'Liability of abettor when one act abetted and different act done.' — please verify
+112,52,suggested,fuzzy title match (99/100): 'Abettor when liable to cumulative punishment for act abetted and for act done' ~ 'Abettor when liable to cumulative punishment for act abetted and for act done.' — please verify
+113,53,suggested,fuzzy title match (96/100): 'Liability of abettor for an effect caused by the act abetted different from that intended by the abettor' ~ 'Liability of abettor for an effect caused by act abetted different from that intended by abettor.' — please verify
+114,54,suggested,fuzzy title match (99/100): 'Abettor present when offence is committed' ~ 'Abettor present when offence is committed.' — please verify
+115,55,suggested,fuzzy title match (84/100): 'Abetment of offence punishable with death or imprisonment for life—if offence not committed' ~ 'Abetment of offence punishable with death or imprisonment for life.' — please verify
+116,55,suggested,fuzzy title match (78/100): 'Abetment of offence punishable with imprisonment—if offence be not committed' ~ 'Abetment of offence punishable with death or imprisonment for life.' — please verify
+117,57,suggested,fuzzy title match (96/100): 'Abetting commission of offence by the public or by more than ten persons' ~ 'Abetting commission of offence by public or by more than ten persons.' — please verify
+118,58,suggested,fuzzy title match (99/100): 'Concealing design to commit offence punishable with death or imprisonment for life' ~ 'Concealing design to commit offence punishable with death or imprisonment for life.' — please verify
+119,59,suggested,fuzzy title match (99/100): 'Public servant concealing design to commit offence which it is his duty to prevent' ~ 'Public servant concealing design to commit offence which it is his duty to prevent.' — please verify
+120,60,suggested,fuzzy title match (99/100): 'Concealing design to commit offence punishable with imprisonment' ~ 'Concealing design to commit offence punishable with imprisonment.' — please verify
+121,147,suggested,"fuzzy title match (96/100): 'Waging or attempting to wage war or abetting waging of war against the Government of India' ~ 'Waging, or attempting to wage war, or abetting waging of war, against Government of India.' — please verify"
+121A,148,suggested,fuzzy title match (95/100): 'Conspiracy to commit offences punishable by section 121' ~ 'Conspiracy to commit offences punishable by section 147.' — please verify
+122,149,suggested,"fuzzy title match (97/100): 'Collecting arms, etc., with intention of waging war against the Government of India' ~ 'Collecting arms, etc., with intention of waging war against Government of India.' — please verify"
+123,150,suggested,fuzzy title match (99/100): 'Concealing with intent to facilitate design to wage war' ~ 'Concealing with intent to facilitate design to wage war.' — please verify
+124,151,suggested,"fuzzy title match (98/100): 'Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power' ~ 'Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power.' — please verify"
+126,154,suggested,fuzzy title match (88/100): 'Committing depredation on territories of Power at peace with the Government of India' ~ 'Committing depredation on territories of foreign State at peace with Government of India.' — please verify
+127,155,suggested,fuzzy title match (96/100): 'Receiving property taken by war or depredation mentioned in sections 125 and 126' ~ 'Receiving property taken by war or depredation mentioned in sections 153 and 154.' — please verify
+128,156,suggested,fuzzy title match (99/100): 'Public servant voluntarily allowing prisoner of State or war to escape' ~ 'Public servant voluntarily allowing prisoner of State or war to escape.' — please verify
+129,157,suggested,fuzzy title match (99/100): 'Public servant negligently suffering such prisoner to escape' ~ 'Public servant negligently suffering such prisoner to escape.' — please verify
+130,158,suggested,"fuzzy title match (99/100): 'Aiding escape of, rescuing or harbouring such prisoner' ~ 'Aiding escape of, rescuing or harbouring such prisoner.' — please verify"
+131,159,suggested,"fuzzy title match (99/100): 'Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty' ~ 'Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty.' — please verify"
+132,160,suggested,"fuzzy title match (99/100): 'Abetment of mutiny, if mutiny is committed in consequence thereof' ~ 'Abetment of mutiny, if mutiny is committed in consequence thereof.' — please verify"
+133,161,suggested,"fuzzy title match (100/100): 'Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office' ~ 'Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office.' — please verify"
+141,189,suggested,fuzzy title match (97/100): 'Unlawful assembly' ~ 'Unlawful assembly.' — please verify
+143,4,suggested,fuzzy title match (91/100): 'Punishment' ~ 'Punishments.' — please verify
+146,191,suggested,fuzzy title match (93/100): 'Rioting' ~ 'Rioting.' — please verify
+147,64,suggested,fuzzy title match (76/100): 'Punishment for rioting' ~ 'Punishment for rape.' — please verify
+149,190,suggested,fuzzy title match (99/100): 'Every member of unlawful assembly guilty of offence committed in prosecution of common object' ~ 'Every member of unlawful assembly guilty of offence committed in prosecution of common object.' — please verify
+152,195,suggested,"fuzzy title match (99/100): 'Assaulting or obstructing public servant when suppressing riot, etc' ~ 'Assaulting or obstructing public servant when suppressing riot, etc.' — please verify"
+153,192,suggested,fuzzy title match (92/100): 'Wantonly giving provocation with intent to cause riot—if rioting be committed—if not committed' ~ 'Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed.' — please verify
+153A,196,suggested,"fuzzy title match (100/100): 'Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony' ~ 'Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony.' — please verify"
+153B,197,suggested,"fuzzy title match (99/100): 'Imputations, assertions prejudicial to national integration' ~ 'Imputations, assertions prejudicial to national integration.' — please verify"
+159,194,suggested,fuzzy title match (92/100): 'Affray' ~ 'Affray.' — please verify
+166,198,suggested,"fuzzy title match (99/100): 'Public servant disobeying law, with intent to cause injury to any person' ~ 'Public servant disobeying law, with intent to cause injury to any person.' — please verify"
+166A,199,suggested,fuzzy title match (99/100): 'Public servant disobeying direction under law' ~ 'Public servant disobeying direction under law.' — please verify
+166B,200,suggested,fuzzy title match (90/100): 'Punishment for non-treatment of victim' ~ 'Punishment for non- treatment of victim.' — please verify
+167,201,suggested,fuzzy title match (99/100): 'Public servant framing an incorrect document with intent to cause injury' ~ 'Public servant framing an incorrect document with intent to cause injury.' — please verify
+168,202,suggested,fuzzy title match (99/100): 'Public servant unlawfully engaging in trade' ~ 'Public servant unlawfully engaging in trade.' — please verify
+169,203,suggested,fuzzy title match (99/100): 'Public servant unlawfully buying or bidding for property' ~ 'Public servant unlawfully buying or bidding for property.' — please verify
+170,204,suggested,fuzzy title match (98/100): 'Personating a public servant' ~ 'Personating a public servant.' — please verify
+171,205,suggested,fuzzy title match (99/100): 'Wearing garb or carrying token used by public servant with fraudulent intent' ~ 'Wearing garb or carrying token used by public servant with fraudulent intent.' — please verify
+172,206,suggested,fuzzy title match (99/100): 'Absconding to avoid service of summons or other proceeding' ~ 'Absconding to avoid service of summons or other proceeding.' — please verify
+173,207,suggested,"fuzzy title match (99/100): 'Preventing service of summons or other proceeding, or preventing publication thereof' ~ 'Preventing service of summons or other proceeding, or preventing publication thereof.' — please verify"
+174,208,suggested,fuzzy title match (93/100): 'Non-attendance in obedience to an order from public servant' ~ 'Non- attendance in obedience to an order from public servant.' — please verify
+175,210,suggested,fuzzy title match (88/100): 'Omission to produce document to public servant by person legally bound to produce it' ~ 'Omission to produce document or electronic record to public servant by person legally bound to produce it.' — please verify
+176,211,suggested,fuzzy title match (99/100): 'Omission to give notice or information to public servant by person legally bound to give it' ~ 'Omission to give notice or information to public servant by person legally bound to give it.' — please verify
+177,212,suggested,fuzzy title match (98/100): 'Furnishing false information' ~ 'Furnishing false information.' — please verify
+178,213,suggested,fuzzy title match (99/100): 'Refusing oath or affirmation when duly required by public servant to make it' ~ 'Refusing oath or affirmation when duly required by public servant to make it.' — please verify
+179,214,suggested,fuzzy title match (99/100): 'Refusing to answer public servant authorised to question' ~ 'Refusing to answer public servant authorised to question.' — please verify
+180,215,suggested,fuzzy title match (98/100): 'Refusing to sign statement' ~ 'Refusing to sign statement.' — please verify
+181,216,suggested,fuzzy title match (100/100): 'False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation' ~ 'False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.' — please verify
+182,217,suggested,"fuzzy title match (98/100): 'False information, with intent to cause public servant to use his lawful power to the injury of another person' ~ 'False information, with intent to cause public servant to use his lawful power to injury of another person.' — please verify"
+183,218,suggested,fuzzy title match (94/100): 'Resistance to the taking of property by the lawful authority of a public servant' ~ 'Resistance to taking of property by lawful authority of a public servant.' — please verify
+184,219,suggested,fuzzy title match (99/100): 'Obstructing sale of property offered for sale by authority of public servant' ~ 'Obstructing sale of property offered for sale by authority of public servant.' — please verify
+185,220,suggested,fuzzy title match (99/100): 'Illegal purchase or bid for property offered for sale by authority of public servant' ~ 'Illegal purchase or bid for property offered for sale by authority of public servant.' — please verify
+186,221,suggested,fuzzy title match (99/100): 'Obstructing public servant in discharge of public functions' ~ 'Obstructing public servant in discharge of public functions.' — please verify
+187,222,suggested,fuzzy title match (99/100): 'Omission to assist public servant when bound by law to give assistance' ~ 'Omission to assist public servant when bound by law to give assistance.' — please verify
+188,223,suggested,fuzzy title match (99/100): 'Disobedience to order duly promulgated by public servant' ~ 'Disobedience to order duly promulgated by public servant.' — please verify
+189,224,suggested,fuzzy title match (99/100): 'Threat of injury to public servant' ~ 'Threat of injury to public servant.' — please verify
+190,225,suggested,fuzzy title match (99/100): 'Threat of injury to induce person to refrain from applying for protection to public servant' ~ 'Threat of injury to induce person to refrain from applying for protection to public servant.' — please verify
+191,227,suggested,fuzzy title match (98/100): 'Giving false evidence' ~ 'Giving false evidence.' — please verify
+192,228,suggested,fuzzy title match (98/100): 'Fabricating false evidence' ~ 'Fabricating false evidence.' — please verify
+193,229,suggested,fuzzy title match (98/100): 'Punishment for false evidence' ~ 'Punishment for false evidence.' — please verify
+194,230,suggested,fuzzy title match (99/100): 'Giving or fabricating false evidence with intent to procure conviction of capital offence' ~ 'Giving or fabricating false evidence with intent to procure conviction of capital offence.' — please verify
+195,231,suggested,fuzzy title match (100/100): 'Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment' ~ 'Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.' — please verify
+195A,232,suggested,fuzzy title match (99/100): 'Threatening any person to give false evidence' ~ 'Threatening any person to give false evidence.' — please verify
+196,233,suggested,fuzzy title match (98/100): 'Using evidence known to be false' ~ 'Using evidence known to be false.' — please verify
+197,234,suggested,fuzzy title match (99/100): 'Issuing or signing false certificate' ~ 'Issuing or signing false certificate.' — please verify
+198,235,suggested,fuzzy title match (99/100): 'Using as true a certificate known to be false' ~ 'Using as true a certificate known to be false.' — please verify
+199,236,suggested,fuzzy title match (99/100): 'False statement made in declaration which is by law receivable as evidence' ~ 'False statement made in declaration which is by law receivable as evidence.' — please verify
+200,237,suggested,fuzzy title match (99/100): 'Using as true such declaration knowing it to be false' ~ 'Using as true such declaration knowing it to be false.' — please verify
+201,238,suggested,"fuzzy title match (99/100): 'Causing disappearance of evidence of offence, or giving false information to screen offender' ~ 'Causing disappearance of evidence of offence, or giving false information to screen offender.' — please verify"
+202,239,suggested,fuzzy title match (99/100): 'Intentional omission to give information of offence by person bound to inform' ~ 'Intentional omission to give information of offence by person bound to inform.' — please verify
+203,240,suggested,fuzzy title match (99/100): 'Giving false information respecting an offence committed' ~ 'Giving false information respecting an offence committed.' — please verify
+204,241,suggested,fuzzy title match (85/100): 'Destruction of document to prevent its production as evidence' ~ 'Destruction of document or electronic record to prevent its production as evidence.' — please verify
+205,242,suggested,fuzzy title match (99/100): 'False personation for purpose of act or proceeding in suit or prosecution' ~ 'False personation for purpose of act or proceeding in suit or prosecution.' — please verify
+206,243,suggested,fuzzy title match (99/100): 'Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution' ~ 'Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.' — please verify
+207,244,suggested,fuzzy title match (99/100): 'Fraudulent claim to property to prevent its seizure as forfeited or in execution' ~ 'Fraudulent claim to property to prevent its seizure as forfeited or in execution.' — please verify
+208,245,suggested,fuzzy title match (99/100): 'Fraudulently suffering decree for sum not due' ~ 'Fraudulently suffering decree for sum not due.' — please verify
+209,246,suggested,fuzzy title match (97/100): 'Dishonesty making false claim in Court' ~ 'Dishonestly making false claim in Court.' — please verify
+210,247,suggested,fuzzy title match (99/100): 'Fraudulently obtaining decree for sum not due' ~ 'Fraudulently obtaining decree for sum not due.' — please verify
+211,248,suggested,fuzzy title match (99/100): 'False charge of offence made with intent to injure' ~ 'False charge of offence made with intent to injure.' — please verify
+212,249,suggested,fuzzy title match (97/100): 'Harbouring offender' ~ 'Harbouring offender.' — please verify
+213,250,suggested,"fuzzy title match (99/100): 'Taking gift, etc., to screen an offender from punishment' ~ 'Taking gift, etc., to screen an offender from punishment.' — please verify"
+214,251,suggested,fuzzy title match (99/100): 'Offering gift or restoration of property in consideration of screening offender' ~ 'Offering gift or restoration of property in consideration of screening offender.' — please verify
+215,252,suggested,"fuzzy title match (99/100): 'Taking gift to help to recover stolen property, etc' ~ 'Taking gift to help to recover stolen property, etc.' — please verify"
+216,253,suggested,fuzzy title match (99/100): 'Harbouring offender who has escaped from custody or whose apprehension has been ordered' ~ 'Harbouring offender who has escaped from custody or whose apprehension has been ordered.' — please verify
+216A,254,suggested,fuzzy title match (99/100): 'Penalty for harbouring robbers or dacoits' ~ 'Penalty for harbouring robbers or dacoits.' — please verify
+217,255,suggested,fuzzy title match (100/100): 'Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture' ~ 'Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.' — please verify
+218,256,suggested,fuzzy title match (100/100): 'Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture' ~ 'Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.' — please verify
+219,257,suggested,"fuzzy title match (99/100): 'Public servant in judicial proceeding corruptly making report, etc., contrary to law' ~ 'Public servant in judicial proceeding corruptly making report, etc., contrary to law.' — please verify"
+220,258,suggested,fuzzy title match (100/100): 'Commitment for trial or confinement by person having authority who knows that he is acting contrary to law' ~ 'Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.' — please verify
+221,259,suggested,fuzzy title match (97/100): 'Intentional omission to apprehend on the part of public servant bound to apprehend' ~ 'Intentional omission to apprehend on part of public servant bound to apprehend.' — please verify
+222,260,suggested,fuzzy title match (98/100): 'Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed' ~ 'Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed.' — please verify
+223,261,suggested,fuzzy title match (99/100): 'Escape from confinement or custody negligently suffered by public servant' ~ 'Escape from confinement or custody negligently suffered by public servant.' — please verify
+224,262,suggested,fuzzy title match (99/100): 'Resistance or obstruction by a person to his lawful apprehension' ~ 'Resistance or obstruction by a person to his lawful apprehension.' — please verify
+225,263,suggested,fuzzy title match (99/100): 'Resistance or obstruction to lawful apprehension of another person' ~ 'Resistance or obstruction to lawful apprehension of another person.' — please verify
+225A,264,suggested,"fuzzy title match (99/100): 'Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for' ~ 'Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for.' — please verify"
+225B,265,suggested,"fuzzy title match (99/100): 'Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for' ~ 'Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for.' — please verify"
+227,266,suggested,fuzzy title match (99/100): 'Violation of condition of remission of punishment' ~ 'Violation of condition of remission of punishment.' — please verify
+228,267,suggested,fuzzy title match (99/100): 'Intentional insult or interruption to public servant sitting in judicial proceeding' ~ 'Intentional insult or interruption to public servant sitting in judicial proceeding.' — please verify
+228A,72,suggested,"fuzzy title match (96/100): 'Disclosure of identity of the victim of certain offences, etc' ~ 'Disclosure of identity of victim of certain offences, etc.' — please verify"
+229,268,suggested,fuzzy title match (79/100): 'Personation of a juror or assessor' ~ 'Personation of assessor.' — please verify
+229A,269,suggested,fuzzy title match (86/100): 'Failure by person released on bail or bond to appear in court' ~ 'Failure by person released on bail bond or bond to appear in Court.' — please verify
+233,348,suggested,fuzzy title match (73/100): 'Making or selling instrument for counterfeiting coin' ~ 'Making or possession of any instrument for counterfeiting a property mark.' — please verify
+244,187,suggested,fuzzy title match (100/100): 'Person employed in mint causing coin to be of different weight or composition from that fixed by law' ~ 'Person employed in mint causing coin to be of different weight or composition from that fixed by law.' — please verify
+245,188,suggested,fuzzy title match (99/100): 'Unlawfully taking coining instrument from mint' ~ 'Unlawfully taking coining instrument from mint.' — please verify
+256,348,suggested,fuzzy title match (75/100): 'Having possession of instrument or material for counterfeiting Government stamp' ~ 'Making or possession of any instrument for counterfeiting a property mark.' — please verify
+261,183,suggested,"fuzzy title match (100/100): 'Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government' ~ 'Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government.' — please verify"
+262,184,suggested,fuzzy title match (99/100): 'Using Government stamp known to have been before used' ~ 'Using Government stamp known to have been before used.' — please verify
+263,185,suggested,fuzzy title match (99/100): 'Erasure of mark denoting that stamp has been used' ~ 'Erasure of mark denoting that stamp has been used.' — please verify
+263A,186,suggested,fuzzy title match (98/100): 'Prohibition of fictitious stamps' ~ 'Prohibition of fictitious stamps.' — please verify
+268,270,suggested,fuzzy title match (97/100): 'Public nuisance' ~ 'Public nuisance.' — please verify
+269,271,suggested,fuzzy title match (99/100): 'Negligent act likely to spread infection of disease dangerous to life' ~ 'Negligent act likely to spread infection of disease dangerous to life.' — please verify
+270,271,suggested,fuzzy title match (94/100): 'Malignant act likely to spread infection of disease dangerous to life' ~ 'Negligent act likely to spread infection of disease dangerous to life.' — please verify
+271,273,suggested,fuzzy title match (98/100): 'Disobedience to quarantine rule' ~ 'Disobedience to quarantine rule.' — please verify
+272,274,suggested,fuzzy title match (99/100): 'Adulteration of food or drink intended for sale' ~ 'Adulteration of food or drink intended for sale.' — please verify
+273,275,suggested,fuzzy title match (98/100): 'Sale of noxious food or drink' ~ 'Sale of noxious food or drink.' — please verify
+274,276,suggested,fuzzy title match (98/100): 'Adulteration of drugs' ~ 'Adulteration of drugs.' — please verify
+275,277,suggested,fuzzy title match (98/100): 'Sale of adulterated drugs' ~ 'Sale of adulterated drugs.' — please verify
+276,278,suggested,fuzzy title match (99/100): 'Sale of drug as a different drug or preparation' ~ 'Sale of drug as a different drug or preparation.' — please verify
+277,279,suggested,fuzzy title match (99/100): 'Fouling water of public spring or reservoir' ~ 'Fouling water of public spring or reservoir.' — please verify
+278,280,suggested,fuzzy title match (99/100): 'Making atmosphere noxious to health' ~ 'Making atmosphere noxious to health.' — please verify
+279,281,suggested,fuzzy title match (99/100): 'Rash driving or riding on a public way' ~ 'Rash driving or riding on a public way.' — please verify
+280,282,suggested,fuzzy title match (98/100): 'Rash navigation of vessel' ~ 'Rash navigation of vessel.' — please verify
+281,283,suggested,"fuzzy title match (99/100): 'Exhibition of false light, mark or buoy' ~ 'Exhibition of false light, mark or buoy.' — please verify"
+282,284,suggested,fuzzy title match (99/100): 'Conveying person by water for hire in unsafe or overloaded vessel' ~ 'Conveying person by water for hire in unsafe or overloaded vessel.' — please verify
+283,285,suggested,fuzzy title match (99/100): 'Danger or obstruction in public way or line of navigation' ~ 'Danger or obstruction in public way or line of navigation.' — please verify
+284,286,suggested,fuzzy title match (99/100): 'Negligent conduct with respect to poisonous substance' ~ 'Negligent conduct with respect to poisonous substance.' — please verify
+285,287,suggested,fuzzy title match (99/100): 'Negligent conduct with respect to fire or combustible matter' ~ 'Negligent conduct with respect to fire or combustible matter.' — please verify
+286,288,suggested,fuzzy title match (99/100): 'Negligent conduct with respect to explosive substance' ~ 'Negligent conduct with respect to explosive substance.' — please verify
+287,289,suggested,fuzzy title match (99/100): 'Negligent conduct with respect to machinery' ~ 'Negligent conduct with respect to machinery.' — please verify
+288,290,suggested,"fuzzy title match (87/100): 'Negligent conduct with respect to pulling down or repairing buildings' ~ 'Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.' — please verify"
+289,291,suggested,fuzzy title match (99/100): 'Negligent conduct with respect to animal' ~ 'Negligent conduct with respect to animal.' — please verify
+290,292,suggested,fuzzy title match (99/100): 'Punishment for public nuisance in cases not otherwise provided for' ~ 'Punishment for public nuisance in cases not otherwise provided for.' — please verify
+291,293,suggested,fuzzy title match (99/100): 'Continuance of nuisance after injunction to discontinue' ~ 'Continuance of nuisance after injunction to discontinue.' — please verify
+292,294,suggested,"fuzzy title match (99/100): 'Sale, etc., of obscene books, etc' ~ 'Sale, etc., of obscene books, etc.' — please verify"
+297,301,suggested,"fuzzy title match (99/100): 'Trespassing on burial places, etc' ~ 'Trespassing on burial places, etc.' — please verify"
+298,302,suggested,"fuzzy title match (91/100): 'Uttering words, etc., with deliberate intent to wound religious feelings' ~ 'Uttering words, etc., with deliberate intent to wound religious feelings of any person.' — please verify"
+308,110,suggested,fuzzy title match (99/100): 'Attempt to commit culpable homicide' ~ 'Attempt to commit culpable homicide.' — please verify
+309,110,suggested,fuzzy title match (79/100): 'Attempt to commit suicide' ~ 'Attempt to commit culpable homicide.' — please verify
+311,4,suggested,fuzzy title match (91/100): 'Punishment' ~ 'Punishments.' — please verify
+312,88,suggested,fuzzy title match (92/100): 'Causing miscarraige' ~ 'Causing miscarriage.' — please verify
+313,89,suggested,fuzzy title match (99/100): 'Causing miscarriage without woman's consent' ~ 'Causing miscarriage without woman's consent.' — please verify
+314,90,suggested,fuzzy title match (99/100): 'Death caused by act done with intent to cause miscarriage' ~ 'Death caused by act done with intent to cause miscarriage.' — please verify
+315,91,suggested,fuzzy title match (98/100): 'Act done with intent to prevent child being born alive or to cause it to die after birth' ~ 'Act done with intent to prevent child being born alive or to cause to die after birth.' — please verify
+316,92,suggested,fuzzy title match (99/100): 'Causing death of quick unborn child by act amounting to culpable homicide' ~ 'Causing death of quick unborn child by act amounting to culpable homicide.' — please verify
+317,93,suggested,"fuzzy title match (95/100): 'Exposure and abandonment of child under twelve years, by parent or person having care of it' ~ 'Exposure and abandonment of child under twelve years of age, by parent or person having care of it.' — please verify"
+318,94,suggested,fuzzy title match (99/100): 'Concealment of birth by secret disposal of dead body' ~ 'Concealment of birth by secret disposal of dead body.' — please verify
+322,124,suggested,"fuzzy title match (76/100): 'Voluntarily causing grievous hurt' ~ 'Voluntarily causing grievous hurt by use of acid, etc.' — please verify"
+324,118,suggested,fuzzy title match (86/100): 'Voluntarily causing hurt by dangerous weapons or means' ~ 'Voluntarily causing hurt or grievous hurt by dangerous weapons or means.' — please verify
+326,118,suggested,fuzzy title match (93/100): 'Voluntarily causing grievous hurt by dangerous weapons or means' ~ 'Voluntarily causing hurt or grievous hurt by dangerous weapons or means.' — please verify
+326A,124,suggested,"fuzzy title match (99/100): 'Voluntarily causing grievous hurt by use of acid, etc' ~ 'Voluntarily causing grievous hurt by use of acid, etc.' — please verify"
+327,119,suggested,"fuzzy title match (87/100): 'Voluntarily causing hurt to extort property, or to constrain to an illegal to an act' ~ 'Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.' — please verify"
+328,123,suggested,"fuzzy title match (99/100): 'Causing hurt by means of poison, etc., with intent to commit and offence' ~ 'Causing hurt by means of poison, etc., with intent to commit an offence.' — please verify"
+329,119,suggested,"fuzzy title match (95/100): 'Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act' ~ 'Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.' — please verify"
+330,120,suggested,"fuzzy title match (90/100): 'Voluntarily causing hurt to extort confession, or to compel restoration of property' ~ 'Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property.' — please verify"
+331,120,suggested,"fuzzy title match (95/100): 'Voluntarily causing grievous hurt to extort confession, or to compel restoration of property' ~ 'Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property.' — please verify"
+332,121,suggested,fuzzy title match (87/100): 'Voluntarily causing hurt to deter public servant from his duty' ~ 'Voluntarily causing hurt or grievous hurt to deter public servant from his duty.' — please verify
+333,121,suggested,fuzzy title match (94/100): 'Voluntarily causing grievous hurt to deter public servant from his duty' ~ 'Voluntarily causing hurt or grievous hurt to deter public servant from his duty.' — please verify
+334,122,suggested,fuzzy title match (81/100): 'Voluntarily causing hurt on provocation' ~ 'Voluntarily causing hurt or grievous hurt on provocation.' — please verify
+335,122,suggested,fuzzy title match (91/100): 'Voluntarily causing grievous hurt on provocation' ~ 'Voluntarily causing hurt or grievous hurt on provocation.' — please verify
+336,125,suggested,fuzzy title match (99/100): 'Act endangering life or personal safety of others' ~ 'Act endangering life or personal safety of others.' — please verify
+337,125,suggested,fuzzy title match (83/100): 'Causing hurt by act endangering life or personal safety of others' ~ 'Act endangering life or personal safety of others.' — please verify
+338,125,suggested,fuzzy title match (77/100): 'Causing grievous hurt by act endangering life or personal safety of others' ~ 'Act endangering life or personal safety of others.' — please verify
+339,126,suggested,fuzzy title match (97/100): 'Wrongful restraint' ~ 'Wrongful restraint.' — please verify
+340,127,suggested,fuzzy title match (98/100): 'Wrongful confinement' ~ 'Wrongful confinement.' — please verify
+346,127,suggested,fuzzy title match (78/100): 'Wrongful confinement in secret' ~ 'Wrongful confinement.' — please verify
+349,128,suggested,fuzzy title match (91/100): 'Force' ~ 'Force.' — please verify
+350,129,suggested,fuzzy title match (97/100): 'Criminal force' ~ 'Criminal force.' — please verify
+351,130,suggested,fuzzy title match (93/100): 'Assault' ~ 'Assault.' — please verify
+352,131,suggested,fuzzy title match (99/100): 'Punishment for assault or criminal force otherwise than on grave provocation' ~ 'Punishment for assault or criminal force otherwise than on grave provocation.' — please verify
+353,132,suggested,fuzzy title match (99/100): 'Assault or criminal force to deter public servant from discharge of his duty' ~ 'Assault or criminal force to deter public servant from discharge of his duty.' — please verify
+354,74,suggested,fuzzy title match (95/100): 'Assault or criminal force to woman with intent to outrage her modesty' ~ 'Assault or use of criminal force to woman with intent to outrage her modesty.' — please verify
+354B,76,suggested,fuzzy title match (99/100): 'Assault or use of criminal force to woman with intent to disrobe' ~ 'Assault or use of criminal force to woman with intent to disrobe.' — please verify
+354C,77,suggested,fuzzy title match (95/100): 'Voyeurism' ~ 'Voyeurism.' — please verify
+354E,308,suggested,fuzzy title match (80/100): 'Sextortion' ~ 'Extortion.' — please verify
+355,133,suggested,"fuzzy title match (99/100): 'Assault or criminal force with intent to dishonour person, otherwise than on grave provocation' ~ 'Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.' — please verify"
+356,134,suggested,fuzzy title match (99/100): 'Assault or criminal force in attempt to commit theft of property carried by a person' ~ 'Assault or criminal force in attempt to commit theft of property carried by a person.' — please verify
+357,135,suggested,fuzzy title match (99/100): 'Assault or criminal force in attempt wrongfully to confine a person' ~ 'Assault or criminal force in attempt to wrongfully confine a person.' — please verify
+358,136,suggested,fuzzy title match (99/100): 'Assault or criminal force on grave provocation' ~ 'Assault or criminal force on grave provocation.' — please verify
+359,137,suggested,fuzzy title match (95/100): 'Kidnapping' ~ 'Kidnapping.' — please verify
+362,138,suggested,fuzzy title match (95/100): 'Abduction' ~ 'Abduction.' — please verify
+363,64,suggested,fuzzy title match (76/100): 'Punishment for kidnapping' ~ 'Punishment for rape.' — please verify
+363A,139,suggested,fuzzy title match (88/100): 'Kidnapping or maiming a minor for purposes of begging' ~ 'Kidnapping or maiming a child for purposes of begging.' — please verify
+364,140,suggested,"fuzzy title match (81/100): 'Kidnapping or abducting in order to murder' ~ 'Kidnapping or abducting in order to murder or for ransom, etc.' — please verify"
+366,87,suggested,"fuzzy title match (99/100): 'Kidnapping, abducting or inducing woman to compel her marriage, etc' ~ 'Kidnapping, abducting or inducing woman to compel her marriage, etc.' — please verify"
+366A,96,suggested,fuzzy title match (74/100): 'Procuration of minor girl' ~ 'Procuration of child.' — please verify
+366B,141,suggested,fuzzy title match (91/100): 'Importation of girl from foreign country' ~ 'Importation of girl or boy from foreign country.' — please verify
+368,142,suggested,"fuzzy title match (99/100): 'Wrongfully concealing or keeping in confinement, kidnapped or abducted person' ~ 'Wrongfully concealing or keeping in confinement, kidnapped or abducted person.' — please verify"
+369,97,suggested,fuzzy title match (95/100): 'Kidnapping or abducting child under ten years with intent to steal from its person' ~ 'Kidnapping or abducting child under ten years of age with intent to steal from its person.' — please verify
+370,143,suggested,fuzzy title match (98/100): 'Trafficking of person' ~ 'Trafficking of person.' — please verify
+370A,144,suggested,fuzzy title match (99/100): 'Exploitation of a trafficked person' ~ 'Exploitation of a trafficked person.' — please verify
+371,145,suggested,fuzzy title match (98/100): 'Habitual dealing in slaves' ~ 'Habitual dealing in slaves.' — please verify
+372,98,suggested,"fuzzy title match (86/100): 'Selling minor for purposes of prostitution, etc' ~ 'Selling child for purposes of prostitution, etc.' — please verify"
+373,99,suggested,"fuzzy title match (86/100): 'Buying minor for purposes of prostitution, etc' ~ 'Buying child for purposes of prostitution, etc.' — please verify"
+374,146,suggested,fuzzy title match (98/100): 'Unlawful compulsory labour' ~ 'Unlawful compulsory labour.' — please verify
+375,63,suggested,fuzzy title match (89/100): 'Rape' ~ 'Rape.' — please verify
+376,64,suggested,fuzzy title match (97/100): 'Punishment for rape' ~ 'Punishment for rape.' — please verify
+376A,66,suggested,fuzzy title match (99/100): 'Punishment for causing death or resulting in persistent vegetative state of victim' ~ 'Punishment for causing death or resulting in persistent vegetative state of victim.' — please verify
+376B,67,suggested,fuzzy title match (99/100): 'Sexual intercourse by husband upon his wife during separation' ~ 'Sexual intercourse by husband upon his wife during separation.' — please verify
+376C,68,suggested,fuzzy title match (99/100): 'Sexual intercourse by a person in authority' ~ 'Sexual intercourse by a person in authority.' — please verify
+376D,70,suggested,fuzzy title match (95/100): 'Gang rape' ~ 'Gang rape.' — please verify
+376E,71,suggested,fuzzy title match (98/100): 'Punishment for repeat offenders' ~ 'Punishment for repeat offenders.' — please verify
+378,303,suggested,fuzzy title match (91/100): 'Theft' ~ 'Theft.' — please verify
+379,64,suggested,fuzzy title match (80/100): 'Punishment for theft' ~ 'Punishment for rape.' — please verify
+379A,304,suggested,fuzzy title match (95/100): 'Snatching' ~ 'Snatching.' — please verify
+381,306,suggested,fuzzy title match (99/100): 'Theft by clerk or servant of property in possession of master' ~ 'Theft by clerk or servant of property in possession of master.' — please verify
+382,307,suggested,"fuzzy title match (96/100): 'Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft' ~ 'Theft after preparation made for causing death, hurt or restraint in order to committing of theft.' — please verify"
+383,308,suggested,fuzzy title match (95/100): 'Extortion' ~ 'Extortion.' — please verify
+388,55,suggested,"fuzzy title match (73/100): 'Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc' ~ 'Abetment of offence punishable with death or imprisonment for life.' — please verify"
+390,309,suggested,fuzzy title match (93/100): 'Robbery' ~ 'Robbery.' — please verify
+391,310,suggested,fuzzy title match (93/100): 'Dacoity' ~ 'Dacoity.' — please verify
+392,64,suggested,fuzzy title match (81/100): 'Punishment for robbery' ~ 'Punishment for rape.' — please verify
+397,311,suggested,"fuzzy title match (99/100): 'Robbery, or dacoity, with attempt to cause death or grievous hurt' ~ 'Robbery, or dacoity, with attempt to cause death or grievous hurt.' — please verify"
+398,312,suggested,fuzzy title match (99/100): 'Attempt to commit robbery or dacoity when armed with deadly weapon' ~ 'Attempt to commit robbery or dacoity when armed with deadly weapon.' — please verify
+400,313,suggested,"fuzzy title match (80/100): 'Punishment for belonging to gang of dacoits' ~ 'Punishment for belonging to gang of robbers, etc.' — please verify"
+401,313,suggested,"fuzzy title match (83/100): 'Punishment for belonging to gang of thieves' ~ 'Punishment for belonging to gang of robbers, etc.' — please verify"
+403,314,suggested,fuzzy title match (99/100): 'Dishonest misappropriation of property' ~ 'Dishonest misappropriation of property.' — please verify
+410,317,suggested,fuzzy title match (97/100): 'Stolen property' ~ 'Stolen property.' — please verify
+415,318,suggested,fuzzy title match (94/100): 'Cheating' ~ 'Cheating.' — please verify
+416,319,suggested,fuzzy title match (98/100): 'Cheating by personation' ~ 'Cheating by personation.' — please verify
+421,320,suggested,fuzzy title match (99/100): 'Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors' ~ 'Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.' — please verify
+422,321,suggested,fuzzy title match (99/100): 'Dishonestly or fraudulently preventing debt being available for creditors' ~ 'Dishonestly or fraudulently preventing debt being available for creditors.' — please verify
+423,322,suggested,fuzzy title match (99/100): 'Dishonest or fraudulent execution of deed of transfer containing false statement of consideration' ~ 'Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.' — please verify
+424,323,suggested,fuzzy title match (99/100): 'Dishonest or fraudulent removal or concealment of property' ~ 'Dishonest or fraudulent removal or concealment of property.' — please verify
+425,324,suggested,fuzzy title match (94/100): 'Mischief' ~ 'Mischief.' — please verify
+426,64,suggested,fuzzy title match (74/100): 'Punishment for mischief' ~ 'Punishment for rape.' — please verify
+428,325,suggested,fuzzy title match (73/100): 'Mischief by killing or maiming animal of the value of ten rupees' ~ 'Mischief by killing or maiming animal.' — please verify
+436,326,suggested,"fuzzy title match (74/100): 'Mischief by fire or explosive substance with intent to destroy house, etc' ~ 'Mischief by injury, inundation, fire or explosive substance, etc.' — please verify"
+437,327,suggested,"fuzzy title match (91/100): 'Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden' ~ 'Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden.' — please verify"
+439,328,suggested,"fuzzy title match (99/100): 'Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc' ~ 'Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.' — please verify"
+440,307,suggested,"fuzzy title match (73/100): 'Mischief committed after preparation made for causing death or hurt' ~ 'Theft after preparation made for causing death, hurt or restraint in order to committing of theft.' — please verify"
+448,331,suggested,fuzzy title match (74/100): 'Punishment for house-trespass' ~ 'Punishment for house-trespass or house- breaking.' — please verify
+449,332,suggested,fuzzy title match (78/100): 'House-trespass in order to commit offence punishable with death' ~ 'House-trespass in order to commit offence.' — please verify
+450,58,suggested,fuzzy title match (77/100): 'House-trespass in order to commit offence punishable with imprisonment for life' ~ 'Concealing design to commit offence punishable with death or imprisonment for life.' — please verify
+451,60,suggested,fuzzy title match (74/100): 'House-trespass in order to commit offence punishable with imprisonment' ~ 'Concealing design to commit offence punishable with imprisonment.' — please verify
+452,333,suggested,"fuzzy title match (98/100): 'House-trespass alter preparation for hurt, assault or wrongful restraint' ~ 'House-trespass after preparation for hurt, assault or wrongful restraint.' — please verify"
+453,331,suggested,fuzzy title match (75/100): 'Punishment for lurking house-trespass or house-breaking' ~ 'Punishment for house-trespass or house- breaking.' — please verify
+456,331,suggested,fuzzy title match (73/100): 'Punishment for lurking house-trespass or house-breaking by night' ~ 'Punishment for house-trespass or house- breaking.' — please verify
+461,334,suggested,fuzzy title match (99/100): 'Dishonestly breaking open receptacle containing property' ~ 'Dishonestly breaking open receptacle containing property.' — please verify
+464,335,suggested,fuzzy title match (98/100): 'Making a false document' ~ 'Making a false document.' — please verify
+465,64,suggested,fuzzy title match (81/100): 'Punishment for forgery' ~ 'Punishment for rape.' — please verify
+475,342,suggested,"fuzzy title match (97/100): 'Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material' ~ 'Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.' — please verify"
+476,342,suggested,"fuzzy title match (91/100): 'Counterfeiting device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material' ~ 'Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.' — please verify"
+477,343,suggested,"fuzzy title match (99/100): 'Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security' ~ 'Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.' — please verify"
+477A,344,suggested,fuzzy title match (98/100): 'Falsification of accounts' ~ 'Falsification of accounts.' — please verify
+479,345,suggested,fuzzy title match (96/100): 'Property mark' ~ 'Property mark.' — please verify
+483,347,suggested,fuzzy title match (78/100): 'Counterfeiting a property mark used by another' ~ 'Counterfeiting a property mark.' — please verify
+485,348,suggested,fuzzy title match (99/100): 'Making or possession of any instrument for counterfeiting a property mark' ~ 'Making or possession of any instrument for counterfeiting a property mark.' — please verify
+486,349,suggested,fuzzy title match (99/100): 'Selling goods marked with a counterfeit property mark' ~ 'Selling goods marked with a counterfeit property mark.' — please verify
+487,350,suggested,fuzzy title match (99/100): 'Making a false mark upon any receptacle containing goods' ~ 'Making a false mark upon any receptacle containing goods.' — please verify
+489,346,suggested,fuzzy title match (99/100): 'Tampering with property mark with intent to cause injury' ~ 'Tampering with property mark with intent to cause injury.' — please verify
+489D,181,suggested,"fuzzy title match (84/100): 'Making or possessing instruments or materials for forging or counterfeiting currency notes or bank-notes' ~ 'Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes.' — please verify"
+489E,182,suggested,fuzzy title match (99/100): 'Making or using documents resembling currency-notes or bank-notes' ~ 'Making or using documents resembling currency-notes or bank-notes.' — please verify
+496,83,suggested,fuzzy title match (99/100): 'Marriage ceremony fraudulently gone through without lawful marriage' ~ 'Marriage ceremony fraudulently gone through without lawful marriage.' — please verify
+498,84,suggested,fuzzy title match (99/100): 'Enticing or taking away or detaining with criminal intent a married woman' ~ 'Enticing or taking away or detaining with criminal intent a married woman.' — please verify
+498A,85,suggested,fuzzy title match (99/100): 'Husband or relative of husband of a woman subjecting her to cruelty' ~ 'Husband or relative of husband of a woman subjecting her to cruelty.' — please verify
+499,356,suggested,fuzzy title match (95/100): 'Defamation' ~ 'Defamation.' — please verify
+503,351,suggested,fuzzy title match (98/100): 'Criminal intimidation' ~ 'Criminal intimidation.' — please verify
+504,352,suggested,fuzzy title match (96/100): 'Intentional insult with intent to provoke breach of the peace' ~ 'Intentional insult with intent to provoke breach of peace.' — please verify
+505,353,suggested,fuzzy title match (99/100): 'Statements conducing to public mischief' ~ 'Statements conducing to public mischief.' — please verify
+508,354,suggested,fuzzy title match (97/100): 'Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure' ~ 'Act caused by inducing person to believe that he will be rendered an object of Divine displeasure.' — please verify
+509A,75,suggested,fuzzy title match (72/100): 'Sexual harassment by relative' ~ 'Sexual harassment.' — please verify
+510,355,suggested,fuzzy title match (99/100): 'Misconduct in public by a drunken person' ~ 'Misconduct in public by a drunken person.' — please verify
+511,62,suggested,fuzzy title match (100/100): 'Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment' ~ 'Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.' — please verify

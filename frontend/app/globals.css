@@ -1,0 +1,349 @@
+:root {
+  --bg: #f6f6f9;
+  --surface: #ffffff;
+  --surface-2: #eef0f5;
+  --border: #e3e4ea;
+  --text: #16171b;
+  --text-muted: #6b6d78;
+  --accent: #6d5bd0;
+  --accent-2: #d99b2b;
+  --accent-soft: #efecfb;
+  --ipc: #6d5bd0;
+  --ipc-soft: #efecfb;
+  --bns: #1a9c78;
+  --bns-soft: #e2f5ef;
+  --warn: #92600f;
+  --warn-soft: #fbf0dc;
+  --shadow: 0 1px 2px rgba(20, 20, 30, 0.04), 0 8px 24px rgba(20, 20, 30, 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0e0f13;
+    --surface: #16181f;
+    --surface-2: #1d202a;
+    --border: #2a2d38;
+    --text: #eef0f5;
+    --text-muted: #9698a6;
+    --accent: #9384f2;
+    --accent-2: #eec778;
+    --accent-soft: #221f38;
+    --ipc: #9384f2;
+    --ipc-soft: #221f38;
+    --bns: #3fceaa;
+    --bns-soft: #16281f;
+    --warn: #eec778;
+    --warn-soft: #2b2312;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 30px rgba(0, 0, 0, 0.35);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  background: var(--bg);
+  background-image: radial-gradient(circle at 15% -10%, var(--accent-soft) 0%, transparent 45%);
+  background-attachment: fixed;
+  font-family: var(--font-manrope), -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.25rem 1.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header.top {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1.25rem 0 1rem;
+  background: linear-gradient(var(--bg) 70%, transparent);
+}
+
+.brand-text h1 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.brand-text p {
+  margin: 0.15rem 0 0;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.log {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  padding-bottom: 1rem;
+}
+
+.empty-state {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1.5rem;
+  padding: 2rem 1rem;
+}
+
+.empty-state .badge-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.empty-state h2 {
+  font-size: 1.4rem;
+  margin: 0;
+  font-weight: 700;
+}
+
+.empty-state p {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  max-width: 40ch;
+  margin: 0;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  max-width: 520px;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.chip:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+  transform: translateY(-1px);
+}
+
+.row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  animation: rise 0.25s ease both;
+}
+
+.row.user {
+  flex-direction: row-reverse;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.avatar {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin-top: 0.15rem;
+}
+
+.avatar.user {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.avatar.assistant {
+  background: transparent;
+}
+
+.bubble-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  max-width: 82%;
+}
+
+.row.user .bubble-col {
+  align-items: flex-end;
+}
+
+.msg {
+  padding: 0.7rem 1rem;
+  border-radius: 14px;
+  white-space: pre-wrap;
+  line-height: 1.6;
+  font-size: 0.95rem;
+  box-shadow: var(--shadow);
+}
+
+.msg.user {
+  background: var(--accent);
+  color: #ffffff;
+  border-bottom-right-radius: 4px;
+}
+
+.msg.assistant {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-bottom-left-radius: 4px;
+}
+
+.typing {
+  display: inline-flex;
+  gap: 3px;
+  align-items: center;
+  padding: 0.2rem 0;
+}
+
+.typing span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--text-muted);
+  animation: bounce 1.1s infinite ease-in-out;
+}
+
+.typing span:nth-child(2) {
+  animation-delay: 0.15s;
+}
+.typing span:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@keyframes bounce {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.5;
+  }
+  30% {
+    transform: translateY(-4px);
+    opacity: 1;
+  }
+}
+
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.pill.ipc {
+  background: var(--ipc-soft);
+  color: var(--ipc);
+}
+
+.pill.bns {
+  background: var(--bns-soft);
+  color: var(--bns);
+}
+
+.notes {
+  font-size: 0.78rem;
+  color: var(--warn);
+  background: var(--warn-soft);
+  border-radius: 10px;
+  padding: 0.5rem 0.7rem;
+  max-width: 82%;
+}
+
+form.composer {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 0 1.25rem;
+  background: linear-gradient(transparent, var(--bg) 30%);
+}
+
+form.composer input {
+  flex: 1;
+  padding: 0.8rem 1.1rem;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+form.composer input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+form.composer input::placeholder {
+  color: var(--text-muted);
+}
+
+form.composer button {
+  padding: 0 1.3rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 14px;
+  background: var(--accent);
+  color: white;
+  cursor: pointer;
+  transition: filter 0.15s ease, transform 0.15s ease;
+}
+
+form.composer button:hover:not(:disabled) {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+}
+
+form.composer button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
